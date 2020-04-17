@@ -22,13 +22,10 @@ restaurant = Restaurant('Franklin Barbeque', 'barbeque')
 restaurant_1 = Restaurant('Pizza Hut', 'pizza')
 restaurant_2 = Restaurant('KFC', 'fast food')
 
-
 restaurant.describe_restaurant()
-restaurant.open_restaurant()
 print()
 restaurant_1.describe_restaurant()
-restaurant_1.open_restaurant()
 print()
 restaurant_2.describe_restaurant()
-restaurant_2.open_restaurant()
+
 
